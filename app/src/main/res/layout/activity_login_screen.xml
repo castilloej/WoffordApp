@@ -14,7 +14,7 @@
         tools:layout_editor_absoluteY="75dp"
         android:id="@+id/main_page"
         android:visibility="visible">
-
+        <!-- hello world -->
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="272dp"
