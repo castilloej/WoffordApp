@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Wofford App</string>
+    <string name="logo">Login Screen</string>
+
+    <string name="login_but">Login</string>
+    <string name="cont_guest">Continue as Guest...</string>
+
+    <string name="hint_username">Wofford E-Mail...</string>
+    <string name="hint_password">Password...</string>
+</resources>
